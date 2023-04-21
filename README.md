@@ -1,3 +1,5 @@
+# WARNING!!! this design has not been tested. it probably doesn't work and you should not use it as a reference.
+
 # OK96
 96-key ortho keyboard with through-hole components
 
